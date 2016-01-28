@@ -1,0 +1,12 @@
+c:\users\iaroslav.rassokha\documents\visual studio 2015\Projects\NUnit3Tests\NUnit3Tests\bin\Debug\NUnit3Tests.dll
+c:\users\iaroslav.rassokha\documents\visual studio 2015\Projects\NUnit3Tests\NUnit3Tests\bin\Debug\NUnit3Tests.pdb
+c:\users\iaroslav.rassokha\documents\visual studio 2015\Projects\NUnit3Tests\NUnit3Tests\bin\Debug\nunit.framework.dll
+c:\users\iaroslav.rassokha\documents\visual studio 2015\Projects\NUnit3Tests\NUnit3Tests\bin\Debug\nunit.framework.xml
+c:\users\iaroslav.rassokha\documents\visual studio 2015\Projects\NUnit3Tests\NUnit3Tests\obj\Debug\NUnit3Tests.csprojResolveAssemblyReference.cache
+c:\users\iaroslav.rassokha\documents\visual studio 2015\Projects\NUnit3Tests\NUnit3Tests\obj\Debug\NUnit3Tests.dll
+c:\users\iaroslav.rassokha\documents\visual studio 2015\Projects\NUnit3Tests\NUnit3Tests\obj\Debug\NUnit3Tests.pdb
+C:\Users\iaroslav.rassokha\Documents\Visual Studio 2015\Projects\NUnit3Tests\NUnit3Tests\bin\Debug\Castle.Core.dll
+C:\Users\iaroslav.rassokha\Documents\Visual Studio 2015\Projects\NUnit3Tests\NUnit3Tests\bin\Debug\TestStack.White.dll
+C:\Users\iaroslav.rassokha\Documents\Visual Studio 2015\Projects\NUnit3Tests\NUnit3Tests\bin\Debug\Castle.Core.xml
+C:\Users\iaroslav.rassokha\Documents\Visual Studio 2015\Projects\NUnit3Tests\NUnit3Tests\bin\Debug\TestStack.White.pdb
+C:\Users\iaroslav.rassokha\Documents\Visual Studio 2015\Projects\NUnit3Tests\NUnit3Tests\bin\Debug\TestStack.White.xml

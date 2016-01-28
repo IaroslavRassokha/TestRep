@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<datas>
+  <data>
+   <firstNumber>2</firstNumber>
+   <secondNumber>3</secondNumber>
+   <result>5</result>
+  </data>
+  <data>
+    <firstNumber>1</firstNumber>
+    <secondNumber>5</secondNumber>
+    <result>6</result>
+  </data>
+  <data>
+    <firstNumber>3</firstNumber>
+    <secondNumber>6</secondNumber>
+    <result>9</result>
+  </data>
+</datas>

@@ -21,6 +21,7 @@ namespace NUnit3Tests
 
         private static string GetTestDataFolder(string testDataFolder)
         {
+
             string startupPath = AppDomain.CurrentDomain.BaseDirectory;
             var pathItems = startupPath.Split(Path.DirectorySeparatorChar);
             string projectPath = string.Join(Path.DirectorySeparatorChar.ToString(), pathItems.Take(pathItems.Length - 3));
